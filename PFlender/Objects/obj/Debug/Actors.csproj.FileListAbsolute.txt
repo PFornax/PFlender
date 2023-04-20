@@ -1,0 +1,9 @@
+G:\Cs applications\PFlender\PFlender\Objects\bin\Debug\Objects.dll
+G:\Cs applications\PFlender\PFlender\Objects\bin\Debug\Objects.pdb
+G:\Cs applications\PFlender\PFlender\Objects\bin\Debug\Keyframes.dll
+G:\Cs applications\PFlender\PFlender\Objects\bin\Debug\Keyframes.pdb
+G:\Cs applications\PFlender\PFlender\Objects\obj\Debug\Actors.csproj.AssemblyReference.cache
+G:\Cs applications\PFlender\PFlender\Objects\obj\Debug\Actors.csproj.CoreCompileInputs.cache
+G:\Cs applications\PFlender\PFlender\Objects\obj\Debug\Actors.csproj.CopyComplete
+G:\Cs applications\PFlender\PFlender\Objects\obj\Debug\Objects.dll
+G:\Cs applications\PFlender\PFlender\Objects\obj\Debug\Objects.pdb

@@ -1,0 +1,16 @@
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\PFlender.exe.config
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\PFlender.exe
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\PFlender.pdb
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.csproj.AssemblyReference.cache
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.csproj.SuggestedBindingRedirects.cache
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.Main_Application_Form.resources
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.Properties.Resources.resources
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.csproj.GenerateResource.cache
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.csproj.CoreCompileInputs.cache
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.exe
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.pdb
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\Keyframes.dll
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\Keyframes.pdb
+G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.csproj.CopyComplete
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\Objects.dll
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\Objects.pdb

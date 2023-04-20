@@ -1,0 +1,6 @@
+G:\Cs applications\PFlender\PFlender\Keyframes\bin\Debug\Keyframes.dll
+G:\Cs applications\PFlender\PFlender\Keyframes\bin\Debug\Keyframes.pdb
+G:\Cs applications\PFlender\PFlender\Keyframes\obj\Debug\Keyframes.csproj.AssemblyReference.cache
+G:\Cs applications\PFlender\PFlender\Keyframes\obj\Debug\Keyframes.csproj.CoreCompileInputs.cache
+G:\Cs applications\PFlender\PFlender\Keyframes\obj\Debug\Keyframes.dll
+G:\Cs applications\PFlender\PFlender\Keyframes\obj\Debug\Keyframes.pdb
