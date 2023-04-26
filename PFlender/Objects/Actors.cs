@@ -11,7 +11,9 @@ using System.CodeDom;
 
 namespace Actors
 {
-    public class Actor
+
+	#region Actor
+	public class Actor
     {
 		public Keyframes_Manager keyframes_manager = new Keyframes_Manager();
 
@@ -29,6 +31,7 @@ namespace Actors
 		public bool visibility = true;
 
 	}
+	#endregion
 
 	public class Actor_Manager
 	{

@@ -1,0 +1,11 @@
+G:\Cs applications\PFlender\PFlender\file_editor\bin\Debug\file_editor.dll
+G:\Cs applications\PFlender\PFlender\file_editor\bin\Debug\file_editor.pdb
+G:\Cs applications\PFlender\PFlender\file_editor\bin\Debug\Keyframes.dll
+G:\Cs applications\PFlender\PFlender\file_editor\bin\Debug\Objects.dll
+G:\Cs applications\PFlender\PFlender\file_editor\bin\Debug\Keyframes.pdb
+G:\Cs applications\PFlender\PFlender\file_editor\bin\Debug\Objects.pdb
+G:\Cs applications\PFlender\PFlender\file_editor\obj\Debug\file_editor.csproj.AssemblyReference.cache
+G:\Cs applications\PFlender\PFlender\file_editor\obj\Debug\file_editor.csproj.CoreCompileInputs.cache
+G:\Cs applications\PFlender\PFlender\file_editor\obj\Debug\file_editor.csproj.CopyComplete
+G:\Cs applications\PFlender\PFlender\file_editor\obj\Debug\file_editor.dll
+G:\Cs applications\PFlender\PFlender\file_editor\obj\Debug\file_editor.pdb

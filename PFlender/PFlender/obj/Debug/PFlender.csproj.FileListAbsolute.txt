@@ -14,3 +14,7 @@ G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\Keyframes.pdb
 G:\Cs applications\PFlender\PFlender\PFlender\obj\Debug\PFlender.csproj.CopyComplete
 G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\Objects.dll
 G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\Objects.pdb
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\file_reader.dll
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\file_reader.pdb
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\file_editor.dll
+G:\Cs applications\PFlender\PFlender\PFlender\bin\Debug\file_editor.pdb

@@ -1,0 +1,11 @@
+G:\Cs applications\PFlender\PFlender\file_reader\bin\Debug\file_reader.dll
+G:\Cs applications\PFlender\PFlender\file_reader\bin\Debug\file_reader.pdb
+G:\Cs applications\PFlender\PFlender\file_reader\obj\Debug\file_reader.csproj.AssemblyReference.cache
+G:\Cs applications\PFlender\PFlender\file_reader\obj\Debug\file_reader.csproj.CoreCompileInputs.cache
+G:\Cs applications\PFlender\PFlender\file_reader\obj\Debug\file_reader.dll
+G:\Cs applications\PFlender\PFlender\file_reader\obj\Debug\file_reader.pdb
+G:\Cs applications\PFlender\PFlender\file_reader\bin\Debug\Keyframes.dll
+G:\Cs applications\PFlender\PFlender\file_reader\bin\Debug\Objects.dll
+G:\Cs applications\PFlender\PFlender\file_reader\bin\Debug\Keyframes.pdb
+G:\Cs applications\PFlender\PFlender\file_reader\bin\Debug\Objects.pdb
+G:\Cs applications\PFlender\PFlender\file_reader\obj\Debug\file_reader.csproj.CopyComplete

@@ -1,0 +1,9 @@
+How to set the current PFlender version name:
+
+current version state (a (alpha) or b (beta)) + year + month + day + patchNumber
+example: a20230423
+
+
+
+
+

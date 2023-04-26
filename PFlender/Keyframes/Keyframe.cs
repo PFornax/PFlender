@@ -9,7 +9,9 @@ using System.Diagnostics;
 
 namespace Keyframes
 {
-    public class Keyframe
+
+	#region Keyframe
+	public class Keyframe
     {
         //Key information.
         //If a key type is not set, it's default type will be bridge.
@@ -27,11 +29,9 @@ namespace Keyframes
         public Color color;
         public bool visibility = true;
     }
+	#endregion
 
-
-
-
-    public class Keyframes_Manager
+	public class Keyframes_Manager
     {
         public List<Keyframe> keyframes = new List<Keyframe>();
         public List<Keyframe> bridge_keyframes = new List<Keyframe>();
@@ -109,10 +109,6 @@ namespace Keyframes
                 if (keyframe != null)
                 {
                     Debug.WriteLine($"{keyframe.current_frame} | {keyframe.name}  {keyframe.type}  {keyframe.position}  {keyframe.rotation}  {keyframe.scale}  {keyframe.color}  {keyframe.visibility}");
-                }
-                else
-                {
-                    Debug.WriteLine("");
                 }
             }
         }

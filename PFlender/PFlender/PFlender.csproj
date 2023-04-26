@@ -81,6 +81,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\file_editor\file_editor.csproj">
+      <Project>{bdf7e67e-a0d1-41b1-bcf5-8e8f1f76c74e}</Project>
+      <Name>file_editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\file_reader\file_reader.csproj">
+      <Project>{128b5d6c-94f9-4f0d-90fc-6edc8fdbf31a}</Project>
+      <Name>file_reader</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Keyframes\Keyframes.csproj">
       <Project>{03b6cfd6-32ff-4f64-8151-fa5ada813544}</Project>
       <Name>Keyframes</Name>
